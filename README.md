@@ -1,4 +1,4 @@
-# PDStoolkit
+# PDStoolkit package
 
 ### Table of Contents
 1. [Project Description](#desc)
